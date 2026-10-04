@@ -1,8 +1,28 @@
-# Om Harsh Farm website
+# Om Harsh Farm
 
-A static responsive website. Open index.html to view it or serve the repository folder with any static web server. Upload the website files to your hosting provider. No build or backend is required.
+### A little closer to nature.
 
-Includes original business contact details, responsive navigation, gallery filters, accessible photo dialog, and WhatsApp enquiries. Only Videos/VID-20240112-WA0081.mp4 was used; copied as assets/farm-film.mp4. Selected photos were converted to WebP. Original photos and videos are untouched.
+Om Harsh Farm is a village retreat in **Pundas, Maharashtra**, where green surroundings, authentic local food, and the warmth of village life come together. It is a place to step away from the everyday, slow down, and spend time with family and friends.
 
-Google Fonts is the only remote presentation dependency; system fonts provide a fallback. Enquiry links open WhatsApp. Availability and prices are intentionally not invented. Newsletter signup was omitted because no mailing service was supplied.
+## Discover the farm
 
+Whether you are planning a peaceful stay, a shared meal, or a group visit, Om Harsh Farm offers a welcoming setting to relax and reconnect.
+
+- **Stay and unwind** — Enjoy comfortable accommodation surrounded by greenery and the quiet rhythm of village life.
+- **Taste the village** — Discover traditional local flavours, generous meals, and village-style cooking.
+- **Spend time together** — Bring your favourite people for garden conversations, shared experiences, and moments worth remembering.
+
+## Explore our website
+
+The [Om Harsh Farm website](https://omharshfarm.com/) introduces the farm through photographs, food, and moments from guest visits. Explore the gardens and gathering spaces, browse the photo gallery and carousel, or watch the farm film for a closer look at the retreat.
+
+When you are ready to visit, get directions or contact the farm directly to discuss your preferred dates, meals, accommodation, and group plans.
+
+## Plan your visit
+
+**Location:** Om Harsh Farm, Pundas, Maharashtra, India  
+**Phone:** [+91 90494 04440](tel:+919049404440)  
+**WhatsApp:** [Chat with Om Harsh Farm](https://wa.me/919049404440)  
+**Email:** [admin@omharshfarm.com](mailto:admin@omharshfarm.com)
+
+Please contact the farm for current availability, rates, and help planning your visit.
